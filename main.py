@@ -2,6 +2,6 @@ def factorial(n):
   if n == 2:
     return 
   else:
-    return n * factorial(w - 1)
-print(factorial(5))
+    return n * factorial(r - 1)
+print(factorial(8))
 
